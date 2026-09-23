@@ -1,3 +1,1 @@
-# branchtest6
-
-this is the main branch
+# this is the readme.md that on main branch
